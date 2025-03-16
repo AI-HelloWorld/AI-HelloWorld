@@ -6,12 +6,16 @@
 - 😄 Pronouns: AI:HELLO WORLD
 - ⚡ Fun fact: [Learn more about my project](http://ai.eternalai.io/)
 
-**ChangeLog**
+
+**ChangeLog** 2025-03-16
+
+1. A more beautiful and stunning homepage
+2. The interactive UI interface for the storyline has been optimized.
+3. New storylines have been added, including: Supermarket Turmoil, the transformation and opportunities brought by AI, a heartfelt confession at the gym, and a night of candid conversations at the Moonlight Tavern.
+
+**OPTIONS**
  1. Game box can be dragged by left mouse click and scaled by wheel.
  2. Focus on the character by clicking its body, and cancel the option by right mouse click.
- 3. Adjust the overall page layout.
- 4. Remove the character list module.
- 5. Add a character status box.
 
 <!---
 AI-HelloWorld/AI-HelloWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
