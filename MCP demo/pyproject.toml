@@ -1,0 +1,11 @@
+[project]
+name = "town-mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "elasticsearch>=8.17.2",
+    "mcp[cli]>=1.4.1",
+    "openai>=1.66.5",
+]
