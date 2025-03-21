@@ -6,7 +6,7 @@ import uvicorn
 from starlette.routing import  Route
 from mcp.server.sse import SseServerTransport
 
-mcp = FastMCP("town")
+mcp = FastMCP("ai_hello_world")
 # Add an addition tool
 @mcp.tool()
 def add(a: int, b: int) -> int:
